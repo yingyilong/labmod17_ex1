@@ -1,1 +1,1 @@
-Cartella contenente le immagini utili al lavoro
+Cartella contenente le immagini prodotte e quelle utili al lavoro
